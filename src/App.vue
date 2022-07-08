@@ -10,15 +10,14 @@
 	
  <section id="main_content">
       <div id="head">
-        <h1><img src="logo.png"></h1>
+        <h1><img src="./assets/logo.png"></h1>
         <p class="sub_head">欢迎来到滑稽君，个人引导页</p>
   
       </div>   
       <button type="button" class="btns" id="need" @click="toast">bilibili</button>
-      <button type="button" class="btns" id="pass" style="margin-left: 10px;">学习任务</button>
-      <button type="button" class="btns" id="join" style="margin-left: 10px;">提交申请</button>
+     
 
-      <div class="footer" style="margin-top:15px;color: rgba(255,255,255,0.5);font-size:15px;letter-spacing: 2px;">&copy; 2020 Page by Misanki All Qq2637896409.</div>
+      <div class="footer" style="margin-top:15px;color: rgba(255,255,255,0.5);font-size:15px;letter-spacing: 2px;">&copy; 2020 Page by Misanki and WZ.</div>
     </section>
 	</div>
 
@@ -203,7 +202,7 @@ overflow-y:hidden;
       font-weight: bold;
       background: rgba(0, 221, 155, 0.61);
       -webkit-background-clip: text;
-      color:rgb(184, 187, 21);
+      color:rgb(251, 255, 8);
    
       letter-spacing: 5px;
     }
